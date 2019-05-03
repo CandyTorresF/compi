@@ -174,7 +174,6 @@ class ViewController: UIViewController{
                     setValue(dir: localFunc.vars[keys[n - 1]]?.value as! String, valueX: valueX);
                     return;
                 }
-            
             }
         }
         
